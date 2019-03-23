@@ -8,7 +8,3 @@ Client -> "API gateway" : request
 "Game engine" -> "API gateway"
 "API gateway" -> "Client" : response
 @enduml
-
-@startuml
-version
-@enduml
