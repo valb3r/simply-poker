@@ -1,3 +1,5 @@
+This file describes in-depth api call sequence
+
 @startuml
 Client -> "API gateway" : request
 "API gateway" -> "Game engine"
